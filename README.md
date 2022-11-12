@@ -18,8 +18,8 @@ love.exe .
 
 Contributors names and contact info
 
-[CS50G](https://cs50.harvard.edu/games/2018/)
-[SufiDev](https://github.com/SufiDev)
+* [CS50G](https://cs50.harvard.edu/games/2018/)
+* [SufiDev](https://github.com/SufiDev)
 
 ## Version History
 
